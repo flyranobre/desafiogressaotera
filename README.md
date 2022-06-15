@@ -1,3 +1,3 @@
-# desafiogressaotera
-#Construir uma regres linear simples
-#Investigando os padrões de comportamente do Dolar e do Ibovespa
+# desafioregressãotera
+#Regressão linear simples
+#Investigando o comportamento do dolar e   do  índic da  Ibovespa
